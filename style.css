@@ -1,0 +1,44 @@
+h1{
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color: yellow;
+}
+
+a{
+    color: black;
+}
+
+p{
+    text-align: center;
+    color: yellow;
+}
+*{
+    border:solid
+}
+
+
+.titulos{
+    background-color: rgb(251, 255, 8);
+    display:flex;
+    justify-content: space-around ;
+}
+
+.juegos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+body{
+    background-color: black;
+}
